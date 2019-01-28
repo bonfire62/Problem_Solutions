@@ -9,6 +9,9 @@
 
 # Because nums[0] + nums[1] = 2 + 7 = 9,
 # return [0, 1].
+##
+#Submission 21% faster than total submissions
+##
 
 nums = [3,2,4]
 target = 6
