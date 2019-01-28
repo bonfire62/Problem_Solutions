@@ -6,6 +6,7 @@
 # Note: you will always receive a valid array containing a random assortment of direction letters ('n', 's', 'e', or 'w' only). It will never give you an empty array (that's not a walk, that's standing still!).
 
 ##
+#Codewars problem
 #This solution loops through the array and solves concurrently, not using the count() method because that increases runtime.
 ##
 
